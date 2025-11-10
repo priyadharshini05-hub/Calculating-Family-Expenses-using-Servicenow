@@ -39,7 +39,7 @@ Automation & Notifications – Sends alerts when spending exceeds the budget or 
 
 🎬 Demo Video
 Click here to watch the demo
-https://drive.google.com/file/d/1ew8FTwvi2WS6-9AilDDRYZp3yIKG_KLR/view?usp=sharing
+https://drive.google.com/file/d/1ew8FTwvi2WS6-9AilDDRYZp3yIKG_KLR/view?usp=sharing                                                  
 🧑‍🏫 Guidance & Support
 Under the Naan Mudhalvan Scheme,
 Guided by the Department of Computer Science and Engineering,
